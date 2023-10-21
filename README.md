@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nagarau
-- 👀 I’m interested in ...Learing Java tech stack, and latest tehnologies to improve my self
+- 👀 I’m interested in ... learning Java tech stack, and the latest technologies to improve my coding knowledge.
 - 🌱 I’m currently learning ...SpringBoot and Microservices
-- 💞️ I’m looking to collaborate on ...developing an applicaton using SpringBoot,Microservices,Spring Cloud and othere CICD tools.
+- 💞️ I want to collaborate on ...developing an application using SpringBoot, Microservices, Spring Cloud, and other CICD tools.
 - 📫 How to reach me by mail: nagaraju94417@gmail.com
